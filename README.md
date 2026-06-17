@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-en-el-cuello/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Besos en el cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-en-el-cuello/) |
+| **Get License** | [Secure Licensing Rights for Besos en el cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-en-el-cuello/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8c1b70a15370ef794dba4276e2ad4674606e78ef61fc7de8a47a00484fd003ba` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
