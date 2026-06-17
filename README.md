@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-en-el-cuello/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Besos en el cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-en-el-cuello/) |
+| **Get License** | [License this song: Besos en el cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-en-el-cuello/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Besos en el cuello, mami, qué locura
+> Tú tienes la magia que me eleva a la luna
+> Con ese vestido rompiste la calle
+> Esta noche es tuya, no hay quien te iguale
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
